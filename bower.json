@@ -1,0 +1,21 @@
+{
+  "name": "AudioMeter.Polymer",
+  "version": "0.0.0",
+  "authors": [
+    "Junfeng Li <autozimu@gmail.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.0.3"
+  }
+}
